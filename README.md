@@ -4,7 +4,7 @@
   <img src="assets/mikasa.gif" width="450" alt="Attack on Titan Animation">
 </p>
 <p align="center">
-  *“The world is cruel, but also very beautiful.”* — Mikasa Ackerman 
+  <b>“The world is cruel, but also very beautiful.”</b> — Mikasa Ackerman 
 </p>
 
 
@@ -158,7 +158,7 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 </p>
 
 <p align="center">
- *“Curiosity is a disease that can’t be cured.”* — Maomao  
+ <b>“Curiosity is a disease that can’t be cured.”</b> — Maomao  
 </p>
 
 <h4 align="center">“In a world full of noise, I build things that speak quietly — with purpose.” 🪷</h4>
