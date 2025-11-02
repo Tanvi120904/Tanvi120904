@@ -11,8 +11,6 @@
 <h1 align="center">⚔️ Tanvi Khicchi</h1>
 <h3 align="center">“Code like a Scout. Think like an Apothecary.”</h3>
 
-
-
 ---
 
 ### 🌸 About Me
@@ -37,95 +35,47 @@
 
 ## 🌾 Featured Projects
 
-### 🤖 **AI-AgroBot — Universal AI-Based Agricultural Assistant**
-> *Infosys Springboard Internship Project (2025)*  
-An **AI-powered agricultural assistant** that helps farmers monitor crop health, detect diseases, and get instant guidance through **text, images, and voice**.
-
-**🧠 Key Features**
-- 🌱 Image-based crop disease detection (AI + TensorFlow + OpenCV)  
-- 💬 Real-time AI chatbot with multilingual NLP (Hindi + English)  
-- 🕡 Voice-to-text input for hands-free interaction  
-- 🧑‍💼 Admin dashboard for managing users and chatbot data  
-- 🌍 Multilingual interface for regional accessibility  
-
-**🛠 Tech Stack:**  
-Frontend — HTML, CSS, JS | Backend — Python Flask | Database — SQLite | AI — TensorFlow | API — OpenAI + Web Speech API  
-
-📄 *Includes:* Final Documentation (`AI-AgroBot-Universal-AI-Assistant.docx`), architecture, and workflow diagrams.  
-✨ *Developed under Infosys Springboard Internship 2025*  
+### 🤖 **AI-AgroBot — Universal AI Agricultural Assistant**
+> *Infosys Springboard Internship (2025)*  
+AI-based assistant for farmers — detects crop diseases, answers queries via text/voice, and supports Hindi & English.  
+**Stack:** Flask · TensorFlow · OpenCV · SQLite · OpenAI API  
 
 ---
 
-### 🌿 **PlantPal — Smart IoT-Based Plant Monitoring & Irrigation System**
-An **IoT + MERN stack project** that automates plant care and irrigation using **sensors, AI, and real-time dashboards**.
-
-**⚙️ Highlights**
-- 💧 Automatic water pump control via Arduino + moisture sensors  
-- 🌱 AI-based pest & disease detection using **Gemini API**  
-- 📊 Live dashboard showing plant data in real time  
-- 🌍 Built for home gardeners and agricultural IoT systems  
-
-**🛠 Tech Stack:**  
-Frontend — React + Vite + Tailwind CSS | Backend — Node.js + Express | DB — MongoDB | IoT — Arduino UNO | AI — Gemini API  
-
-💡 *Made with ❤️ combining IoT, AI, and Web Tech to keep plants happy.*  
+### 🌿 **PlantPal — Smart IoT Plant Monitoring System**
+IoT + AI project automating irrigation and plant health tracking with live dashboards and Gemini API integration.  
+**Stack:** React · Node.js · MongoDB · Arduino · Gemini API  
 
 ---
 
-### 🥗 **HopePlates — Surplus Food Sharing Platform**
-A web platform that connects **food donors and NGOs**, reducing food waste and hunger.  
-
-**✨ Features**
-- Secure login with JWT authentication  
-- Easy food donation and request system  
-- Interactive map to locate nearby donors  
-- Clean and responsive React frontend  
-
-**🛠 Tech Stack:** Django REST | React + Vite | SQLite | JWT Auth | Map APIs  
-> *Because sharing food shouldn’t be hard.* 🍱  
+### 🥗 **HopePlates — Food Sharing Platform**
+Connects food donors and NGOs through a clean, map-based web interface to reduce food waste.  
+**Stack:** Django REST · React · SQLite · JWT Auth  
 
 ---
 
-### 🌲 **Tree Species Classification — CNN-Based Model**
-A **deep learning project** that classifies tree species using Convolutional Neural Networks.  
-🧬 Added **Batch Normalization & Data Augmentation** to improve accuracy across 31 classes.  
-📊 Visualized model training performance using Matplotlib in **Google Colab**.  
-
-**🛠 Tech Stack:** Python | TensorFlow | OpenCV | Matplotlib  
+### 🌲 **Tree Species Classification**
+CNN model identifying 31 tree species with Batch Normalization & Data Augmentation.  
+**Stack:** Python · TensorFlow · OpenCV · Matplotlib  
 
 ---
 
-### 💼 **Portfolio & Next Afield Internship Project**
+### 💼 **Portfolio & Next Afield Internship**
 🔗 [**Live Portfolio**](https://tanvi120904.github.io/Portfolilo/)  
-A **minimal blue-accented personal portfolio** designed to showcase my journey, built as part of the **Next Afield FSD Internship**.
-
-**🌟 Highlights**
-- 🧭 Interactive navigation with smooth scroll  
-- 🗂️ Dynamic project cards & skills showcase  
-- 💬 Contact form integration  
-- 🧑‍💼 Internship dashboard page mentioning project ownership  
-> “This is a project of Tanvi Khicchi for FSD internship at Next Afield.”  
-
-**🛠 Tech Stack:** HTML | CSS | JavaScript  
+Minimal personal portfolio made during Next Afield FSD Internship with a custom dashboard page.  
+**Stack:** HTML · CSS · JavaScript  
 
 ---
 
-### 🧠 Other Notable Projects
-- 🏨 **Hotel Reservation System** — Java + SQL + Scene Builder for efficient hotel management.  
-- 🧭 **Indoor Navigation App (V-Navigation)** — Flutter-based campus guide with image-based navigation.  
+### 🧭 **Other Notables**
+- 🏨 **Hotel Reservation System** — Java + SQL  
+- 🧭 **V-Navigation App** — Flutter-based indoor navigation  
 
 ---
 
 ## 🪶 Writing & Creativity — *Thoughts That Stuck With Me*
-> “I write to make tech more human.”
-
-📚 My Medium blog blends **tech, creativity, and Gen Z reflections**.  
-Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikhicchi)
-
-### ✨ Featured Articles:
-- 📝 *[Why You Should Document Your Journey (And How It Changed My Life)](https://medium.com/@tanvikhicchi)*  
-- 💡 *[How to Bring Life and Emotion to Your Projects](https://medium.com/@tanvikhicchi)*   
-- ⚔️ *[Why Vibe Is the New Currency of Gen Z](https://medium.com/@tanvikhicchi)*  
+> “I write to make tech more human.”  
+Read more on [**Medium**](https://medium.com/@tanvikhicchi) ✨
 
 ---
 
