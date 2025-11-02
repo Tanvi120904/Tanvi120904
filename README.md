@@ -3,7 +3,12 @@
 <h1 align="center">⚔️ Tanvi Khicchi</h1>
 <h3 align="center">“Code like a Scout. Think like an Apothecary.”</h3>
 <p align="center">
- <div class="tenor-gif-embed" data-postid="15688410563353350358" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/mikasa-ackerman-shingeki-no-kyojin-attack-on-titan-aot-snk-gif-15688410563353350358">Mikasa Ackerman Shingeki No Kyojin GIF</a>from <a href="https://tenor.com/search/mikasa+ackerman-gifs">Mikasa Ackerman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ 
+
+https://github.com/user-attachments/assets/8487a6f9-18ae-412b-bf76-5734bc68eb5b
+
+![tenor](https://github.com/user-attachments/assets/7f031ccc-cd35-403d-bc34-99e7110bbe45)
+
 </p>
 
 ---
@@ -146,7 +151,7 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 ---
 
 <p align="center">
- <div class="tenor-gif-embed" data-postid="16355440949696513108" data-share-method="host" data-aspect-ratio="1.36066" data-width="100%"><a href="https://tenor.com/view/kusuriya-no-hitorigoto-apothecary-diaries-apothecary-diaries-hello-gif-16355440949696513108">Kusuriya No Hitorigoto Apothecary Diaries GIF</a>from <a href="https://tenor.com/search/kusuriya+no+hitorigoto-gifs">Kusuriya No Hitorigoto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ 
 </p>
 
 <h4 align="center">“In a world full of noise, I build things that speak quietly — with purpose.” 🪷</h4>
