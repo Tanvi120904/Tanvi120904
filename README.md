@@ -1,7 +1,7 @@
 <!-- 🌸 Tanvi Khicchi — Anime-Inspired GitHub Profile (Attack on Titan × Apothecary Diaries Theme) -->
 
 <p align="center">
-  <img src="assets/mikasa.gif" width="450" alt="Attack on Titan Animation">
+  <img src="assets/mikasa.gif" width="250" alt="Attack on Titan Animation">
 </p>
 <p align="center">
   <b>“The world is cruel, but also very beautiful.”</b> — Mikasa Ackerman 
@@ -154,7 +154,7 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 
 
 <p align="center">
-  <img src="assets/tenor.gif" width="450" alt="Apothecary Diaries Animation">
+  <img src="assets/tenor.gif" width="250" alt="Apothecary Diaries Animation">
 </p>
 
 <p align="center">
