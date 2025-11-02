@@ -11,18 +11,12 @@
 <h1 align="center">⚔️ Tanvi Khicchi</h1>
 <h3 align="center">“Code like a Scout. Think like an Apothecary.”</h3>
 
----
-
 ### 🌸 About Me
-> “Like Maomao from *The Apothecary Diaries*, I’m endlessly curious;  
-> like the Scouts from *Attack on Titan*, I’m fearless in exploring the unknown.”
+> “Curious like Maomao. Fearless like the Scouts.”
 
-- 🎓 **B.E. in Information Technology (2023–2027)** | Don Bosco Institute of Technology, Mumbai  
-- 💡 Building projects at the intersection of **AI, Agriculture, and Accessibility**  
-- 🤖 Passionate about **Full Stack Development**, **AI Chatbots**, and **IoT-based Smart Systems**  
-- ✍️ I also write reflective tech blogs on [**Medium**](https://medium.com/@tanvikhicchi) → *Thoughts That Stuck With Me*  
-- 💬 Fluent in **Python, JavaScript, FastAPI, Flask, React, and TensorFlow**  
-- 🌙 “I code not to escape reality — but to redesign it.”  
+- 🎓 B.E. in **Information Technology (2023–2027)** | DBIT, Mumbai  
+- ✍️ Write tech reflections on [**Medium**](https://medium.com/@tanvikhicchi)  
+- 💬 Fluent in **MERN Stack, Python, Flask, FastAPI, Django, HTML, CSS, JavaScript, React**
 
 ---
 
