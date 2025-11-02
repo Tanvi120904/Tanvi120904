@@ -48,22 +48,10 @@ Connects food donors and NGOs through a clean, map-based web interface to reduce
 
 ---
 
-### 🌲 **Tree Species Classification**
-CNN model identifying 31 tree species with Batch Normalization & Data Augmentation.  
-**Stack:** Python · TensorFlow · OpenCV · Matplotlib  
-
----
-
 ### 💼 **Portfolio & Next Afield Internship**
 🔗 [**Live Portfolio**](https://tanvi120904.github.io/Portfolilo/)  
 Minimal personal portfolio made during Next Afield FSD Internship with a custom dashboard page.  
 **Stack:** HTML · CSS · JavaScript  
-
----
-
-### 🧭 **Other Notables**
-- 🏨 **Hotel Reservation System** — Java + SQL  
-- 🧭 **V-Navigation App** — Flutter-based indoor navigation  
 
 ---
 
