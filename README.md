@@ -1,12 +1,12 @@
 <!-- 🌸 Tanvi Khicchi — Anime-Inspired GitHub Profile (Attack on Titan × Apothecary Diaries Theme) -->
 
+<p align="center">
+  <img src="assets/mikasa.gif" width="450" alt="Attack on Titan Animation">
+</p>
+
 <h1 align="center">⚔️ Tanvi Khicchi</h1>
 <h3 align="center">“Code like a Scout. Think like an Apothecary.”</h3>
-<p align="center">
- <video autoplay loop muted playsinline>
-  <source src="https://media.tenor.com/Ig-8oXWNMDEAAAPo/aot-hange.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 
 ---
@@ -147,11 +147,9 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 
 ---
 
+
 <p align="center">
-<video autoplay loop muted playsinline>
-  <source src="https://media1.tenor.com/m/4voy44-JxFQAAAAC/kusuriya-no-hitorigoto-apothecary-diaries.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <img src="assets/tenor.gif" width="450" alt="Apothecary Diaries Animation">
 </p>
 
 <h4 align="center">“In a world full of noise, I build things that speak quietly — with purpose.” 🪷</h4>
