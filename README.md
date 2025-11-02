@@ -7,7 +7,7 @@
   <source src="https://media.tenor.com/Ig-8oXWNMDEAAAPo/aot-hange.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-</p>
+
 
 ---
 
@@ -148,7 +148,10 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 ---
 
 <p align="center">
-![tenor](https://github.com/user-attachments/assets/7f031ccc-cd35-403d-bc34-99e7110bbe45)
+<video autoplay loop muted playsinline>
+  <source src="https://media1.tenor.com/m/4voy44-JxFQAAAAC/kusuriya-no-hitorigoto-apothecary-diaries.gif" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </p>
 
 <h4 align="center">“In a world full of noise, I build things that speak quietly — with purpose.” 🪷</h4>
