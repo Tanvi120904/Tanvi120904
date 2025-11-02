@@ -3,7 +3,7 @@
 <h1 align="center">⚔️ Tanvi Khicchi</h1>
 <h3 align="center">“Code like a Scout. Think like an Apothecary.”</h3>
 <p align="center">
-  <img src="https://i.imgur.com/Ht9t6Lw.gif" width="400" alt="Attack on Titan anime aesthetic">
+  <img src="https://tenor.com/view/mikasa-ackerman-shingeki-no-kyojin-attack-on-titan-aot-snk-gif-15688410563353350358" width="400" alt="Attack on Titan anime aesthetic">
 </p>
 
 ---
@@ -146,7 +146,7 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/v1Rr4bO.gif" width="320" alt="Apothecary Diaries aesthetic">
+  <img src="https://tenor.com/view/kusuriya-no-hitorigoto-apothecary-diaries-apothecary-diaries-hello-gif-16355440949696513108" width="320" alt="Apothecary Diaries aesthetic">
 </p>
 
 <h4 align="center">“In a world full of noise, I build things that speak quietly — with purpose.” 🪷</h4>
