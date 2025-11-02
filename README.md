@@ -3,6 +3,7 @@
 <p align="center">
   <img src="assets/mikasa.gif" width="450" alt="Attack on Titan Animation">
 </p>
+> *“The world is cruel, but also very beautiful.”* — Mikasa Ackerman 
 
 <h1 align="center">⚔️ Tanvi Khicchi</h1>
 <h3 align="center">“Code like a Scout. Think like an Apothecary.”</h3>
@@ -144,6 +145,7 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi120904&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
 </p>
+> *“Curiosity is a disease that can’t be cured.”* — Maomao  
 
 ---
 
