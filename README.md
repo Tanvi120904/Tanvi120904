@@ -3,12 +3,10 @@
 <h1 align="center">⚔️ Tanvi Khicchi</h1>
 <h3 align="center">“Code like a Scout. Think like an Apothecary.”</h3>
 <p align="center">
- 
-
-https://github.com/user-attachments/assets/8487a6f9-18ae-412b-bf76-5734bc68eb5b
-
-![tenor](https://github.com/user-attachments/assets/7f031ccc-cd35-403d-bc34-99e7110bbe45)
-
+ <video autoplay loop muted playsinline>
+  <source src="https://media.tenor.com/Ig-8oXWNMDEAAAPo/aot-hange.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </p>
 
 ---
@@ -122,8 +120,7 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 
 ### ✨ Featured Articles:
 - 📝 *[Why You Should Document Your Journey (And How It Changed My Life)](https://medium.com/@tanvikhicchi)*  
-- 💡 *[How to Bring Life and Emotion to Your Projects](https://medium.com/@tanvikhicchi)*  
-- 🌸 *[The Day I Stopped Writing for Them and Started Writing for You](https://medium.com/@tanvikhicchi)*  
+- 💡 *[How to Bring Life and Emotion to Your Projects](https://medium.com/@tanvikhicchi)*   
 - ⚔️ *[Why Vibe Is the New Currency of Gen Z](https://medium.com/@tanvikhicchi)*  
 
 ---
@@ -151,7 +148,7 @@ Read all stories here → [medium.com/@tanvikhicchi](https://medium.com/@tanvikh
 ---
 
 <p align="center">
- 
+![tenor](https://github.com/user-attachments/assets/7f031ccc-cd35-403d-bc34-99e7110bbe45)
 </p>
 
 <h4 align="center">“In a world full of noise, I build things that speak quietly — with purpose.” 🪷</h4>
