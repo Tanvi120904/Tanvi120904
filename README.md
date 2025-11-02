@@ -27,50 +27,6 @@
 
 ---
 
-## 🌾 Featured Projects
-
-### 🤖 **AI-AgroBot — Universal AI Agricultural Assistant**
-> *Infosys Springboard Internship (2025)*  
-AI-based assistant for farmers — detects crop diseases, answers queries via text/voice, and supports Hindi & English.  
-**Stack:** Flask · TensorFlow · OpenCV · SQLite · OpenAI API  
-
----
-
-### 🌿 **PlantPal — Smart IoT Plant Monitoring System**
-IoT + AI project automating irrigation and plant health tracking with live dashboards and Gemini API integration.  
-**Stack:** React · Node.js · MongoDB · Arduino · Gemini API  
-
----
-
-### 🥗 **HopePlates — Food Sharing Platform**
-Connects food donors and NGOs through a clean, map-based web interface to reduce food waste.  
-**Stack:** Django REST · React · SQLite · JWT Auth  
-
----
-
-### 💼 **Portfolio & Next Afield Internship**
-🔗 [**Live Portfolio**](https://tanvi120904.github.io/Portfolilo/)  
-Minimal personal portfolio made during Next Afield FSD Internship with a custom dashboard page.  
-**Stack:** HTML · CSS · JavaScript  
-
----
-
-## 🪶 Writing & Creativity — *Thoughts That Stuck With Me*
-> “I write to make tech more human.”  
-Read more on [**Medium**](https://medium.com/@tanvikhicchi) ✨
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/tanvikhicchi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Tanvi120904" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://medium.com/@tanvikhicchi" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="mailto:tanvikhicchi04@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanvi120904&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -81,6 +37,16 @@ Read more on [**Medium**](https://medium.com/@tanvikhicchi) ✨
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi120904&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
 </p>
 
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/tanvikhicchi/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Tanvi120904" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://medium.com/@tanvikhicchi" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="mailto:tanvikhicchi04@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
